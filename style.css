@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit" ,sans-serif;
+}   
+
+html {
+    height: 100vh;
+}
+
+body{
+    height: 100vh;
+    background-image: linear-gradient(to left, #02DEB4, #000131);
+}
+
+.container {
+    max-width: 1280px;
+    margin: auto;
+
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 100vh;
+
+}
+
+.txt-leads{
+    text-align: center;
+}
+
+.txt-leads h1 {
+    font-size: 3rem;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    font-weight: 700;
+}
+.txt-leads h2 {
+    font-size: 2rem;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    font-weight: 500;
+}
+.txt-leads p {
+    font-size: 22px;
+    padding: 20px;
+    text-align: left;
+    color: white;
+    font-weight:500;
+}
+
+.txt-leads img{
+    
+    display: flex;
+    width: 360px;
+    margin: 4%;
+    align-items: center;
+    box-shadow:  0 0 3px  #42D8B0 ;
+    border-radius: 10px;
+    
+}
+
+form{
+    width: 100%;
+    width: 400px;
+    background-color: #0000002c;
+    border-radius: 20px;
+    padding: 30px;
+
+}
+
+form h2 {
+    align-items: center;
+    font-size: 1rem;
+    color: white;
+    margin-bottom: 60px;
+    text-align: center;
+    
+}
+.input-box label {
+    display: block;
+    color: white;
+    padding: 10px;
+    font-size: 12px;
+}
+
+.input-box input{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+    
+}
+
+.botao{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.botao input{
+    border-radius: 10px;
+    width: 140px;
+    height: 50px;
+    cursor: pointer;
+}
+
+
+@media screen and (max-width: 1094px) {
+.flex {
+    flex-direction: column;
+
+}
+
+.txt-leads h1 {
+    font-size: 2rem;
+    padding: 20px;
+    text-align: center;
+    
+
+}
+.txt-leads h2 {
+    font-size: 1rem;
+    padding: 20px;
+    text-align: center;
+
+}
+.txt-leads img{
+    
+    display: flex;
+    width: 220px;
+    margin: auto;
+    
+
+    
+}
+.txt-leads p {
+    font-size: 1rem;
+    padding: 10px;
+    text-align: center;
+    
+
+}
+
+
+}
