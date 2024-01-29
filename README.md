@@ -1,4 +1,4 @@
-#Landing Page para corretor de imóveis criado em 29/01/2024 Mkt DIGITAL(C)
+#Landing Page para corretor de imóveis Mkt DIGITAL(C) - 2024
 
 -HTML
 -CSS
