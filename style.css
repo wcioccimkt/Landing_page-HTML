@@ -118,7 +118,7 @@ form h2 {
     z-index: 9999;
 }
 
-@media screen and (max-width: 1094px) {
+@media screen and (max-width: 1080px) {
 .flex {
     flex-direction: column;
 
@@ -132,7 +132,7 @@ form h2 {
 }
 .txt-leads h2 {
     font-size: 1rem;
-    padding: 10px;
+    padding: 20px;
     text-align: center;
 
 }
