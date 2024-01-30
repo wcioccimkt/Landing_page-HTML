@@ -1,0 +1,4 @@
+# by Mkt Digital(C)- 2024
+User-agent: *
+Disallow: 
+sitemap: https://consultoriamkt.vercel.app/sitemap.xml
