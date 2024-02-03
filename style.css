@@ -11,6 +11,7 @@ html {
 
 body{
     height: 100vh;
+    overflow-x: hidden;
     background-image: linear-gradient(to left, #02DEB4, #000131);
 }
 
@@ -33,8 +34,8 @@ body{
 }
 
 .txt-leads h1 {
-    font-size: 3rem;
-    padding: 20px;
+    font-size: 40px;
+    padding: 30px;
     text-align: left;
     color: white;
     font-weight: 700;
