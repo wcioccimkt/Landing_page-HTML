@@ -7,11 +7,11 @@
 
 html {
     height: 100vh;
+    overflow-x: hidden;
 }
 
 body{
     height: 100vh;
-    overflow-x: hidden;
     background-image: linear-gradient(to left, #02DEB4, #000131);
 }
 
