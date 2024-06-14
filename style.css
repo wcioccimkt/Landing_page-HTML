@@ -42,6 +42,13 @@ body{
     font-weight: 700;
 }
 
+.txt-leads h2 {
+    font-size: 30px;
+    padding: 30px;
+    text-align: left;
+    color: white;
+    font-weight: 700;
+}
 
 .txt-leads p {
     font-size: 22px;
@@ -123,7 +130,7 @@ form h2 {
 }
 
 .txt-leads h1 {
-    font-size: 2rem;
+    font-size: 1rem;
     margin-top: 40px;
     text-align: center;
     
