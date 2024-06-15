@@ -2,5 +2,6 @@
 
 -HTML
 -CSS
+-Wordpress
 
 ##PORTFOLIO  https://consultoriamktdigital.com.br/landing-page/
