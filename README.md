@@ -4,4 +4,4 @@
 -CSS
 -Wordpress
 
-##PORTFOLIO  https://consultoriamktdigital.com.br/landing-page/
+##PORTFOLIO  https://consultoriamkt.vercel.app/
